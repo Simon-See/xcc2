@@ -1,0 +1,4 @@
+org\msgsvc\StartUpService.class
+org\msgsvc\App.class
+org\msgsvc\QueueProcessor.class
+META-INF\panache-archive.marker

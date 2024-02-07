@@ -1,0 +1,9 @@
+org\xcc\entities\Campaign.class
+org\xcc\XccBackend.class
+org\xcc\entities\Campaign$CampaignType.class
+org\xcc\DTOs\CreateCampaignDto.class
+META-INF\panache-archive.marker
+org\xcc\InMemoryQueue.class
+org\xcc\DTOs\CampaignVinDto.class
+org\xcc\DTOs\CreateVinDto.class
+org\xcc\entities\Vin.class
